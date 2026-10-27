@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Kirollos Zikry 👋</h1>
+<h1 align="center">Kirollos Zikry</h1>
 
 <p align="center">
   <b>AI Solutions Engineer @ Palm Hills Developments</b><br/>
@@ -7,14 +7,14 @@
 
 ---
 
-### About me
+### About
 
-I build and ship applied-AI and automation systems that solve real business problems — document intelligence, conversational assistants, computer vision and recommendation. By day I lead AI solutions for Egypt's leading real estate developer; the rest of the time I work on security, distributed systems and embedded projects.
+I build and ship applied-AI and automation systems that solve real business problems: document intelligence, conversational assistants, computer vision and recommendation. By day I lead AI solutions for Egypt's leading real estate developer; the rest of the time I work on security, distributed systems and embedded projects.
 
-- 🏢 Building the AI solution portfolio at **[Palm Hills Developments](https://github.com/PHD-AI-Solutions-Engineer)**
-- 🎓 MSc Computer Engineering at the **American University in Cairo** (expected 2026)
-- 🔭 Interested in LLM agents, retrieval-augmented generation, and security research
-- 📫 Reach me: [kirollos.zikry@phdint.com](mailto:kirollos.zikry@phdint.com)
+- Building the AI solution portfolio at **[Palm Hills Developments](https://github.com/PHD-AI-Solutions-Engineer)**
+- MSc Computer Engineering at the **American University in Cairo** (expected 2026)
+- Interested in LLM agents, retrieval-augmented generation, and security research
+- Contact: [kirollos.zikry@phdint.com](mailto:kirollos.zikry@phdint.com)
 
 ### Tech stack
 
@@ -34,7 +34,7 @@ I build and ship applied-AI and automation systems that solve real business prob
 
 ### Featured projects
 
-| Project | What it is |
+| Project | Description |
 |---|---|
 | [AI PoC Generator](https://github.com/kirollos21/AI-PoC-generator-Thesis) | Multi-agent AI pipeline (thesis) that studies how LLMs reason about vulnerability reproduction, in isolated Docker environments, for authorized security research. |
 | [AUC Research Assistant](https://github.com/kirollos21/AUC-Research-Assistant) | AI research assistant with federated search across academic databases, RAG and reranking. |
