@@ -12,7 +12,6 @@
 I build and ship applied-AI and automation systems that solve real business problems: document intelligence, conversational assistants, computer vision and recommendation. By day I lead AI solutions for Egypt's leading real estate developer; the rest of the time I work on security, distributed systems and embedded projects.
 
 - Building the AI solution portfolio at **[Palm Hills Developments](https://github.com/PHD-AI-Solutions-Engineer)**
-- MSc Computer Engineering at the **American University in Cairo** (expected 2026)
 - Interested in LLM agents, retrieval-augmented generation, and security research
 - Contact: [kirollos.zikry@phdint.com](mailto:kirollos.zikry@phdint.com)
 
